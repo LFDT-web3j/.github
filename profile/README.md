@@ -4,7 +4,7 @@ Web3j: Web3 Java Ethereum Dapp API
 [![Documentation Status](https://readthedocs.org/projects/web3j-docs/badge/?version=latest)](https://docs.web3j.io)
 [![build status](https://github.com/web3j/web3j/actions/workflows/build.yml/badge.svg)](https://github.com/web3j/web3j/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/web3j/web3j/branch/main/graph/badge.svg?token=a4G9ITI6CU)](https://codecov.io/gh/web3j/web3j)
-[![Discord](https://img.shields.io/discord/779382027614158919?label=discord)](https://discord.gg/A9UXfPF2tS)
+[![Discord](https://discord.com/channels/905194001349627914/1195062053682032700)](https://discord.gg/A9UXfPF2tS)
 [![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20Web3j%20Guru-006BFF)](https://gurubase.io/g/web3j)
 
 
@@ -26,7 +26,7 @@ NEW! Get involved!
 Since Web3J moved under Hyperledger we started to do Web3J Contributors calls every 2 weeks!
 Subscribe to our community page and to see check our call schedule.
 Your contribution matters!
-- [Discord](https://dicord.gg/hyperledger) - Check our last updates! 
+- [Discord](https://discord.com/channels/905194001349627914/1195062053682032700) - Check our last updates! 
 - [Calendar Invite](https://zoom-lfx.platform.linuxfoundation.org/meetings/web3j?view=list) - Add the contributor call to your calendar!
 
 Features
