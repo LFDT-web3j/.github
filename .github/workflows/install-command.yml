@@ -1,0 +1,14 @@
+name: Installation command security
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify the published command fails closed on a partial download
+        run: python3 -B -m unittest discover -s test -p 'test_installation.py' -v
